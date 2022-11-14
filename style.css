@@ -1,0 +1,48 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 35px;
+  }
+  
+  .top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    display: flex;
+      word-spacing: 30px;
+      
+    
+  }
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 45px;
+  }
+.img1{
+  font-size: 20px;
+ margin-left: 25px;
+
+}
+.img2{
+  font-size: 20px;
+  margin-left: 25px;
+ 
+}
+.img3{
+  font-size: 20px;
+  margin-left: 25px;
+ 
+}
+.adl{
+  height: 150vh;
+  width: 150vh;
+}
+
